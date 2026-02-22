@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "ee321ae948ac88e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7896a36113184e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d6d06b35786fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2026-02-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-22"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f34409a0fbf86954",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe715f2860a9b136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b25b6ef9efa0ac0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a5ced3b6e7c7cfd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "33d3049cd2faf245",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b6ab124ead6212b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a34c07c75ee76278",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b61b8f23743064f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "world-model paper-reading/Sketch2Anim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Sketch2Anim 的反向链接列表"
+            }
+          },
+          {
+            "id": "7b58aff6b2965345",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "world-model paper-reading/Sketch2Anim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Sketch2Anim 的出链列表"
+            }
+          },
+          {
+            "id": "e3e0a1d9f4ebc506",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23b1b05509a84693",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8bb901ea04d35a55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "world-model paper-reading/Sketch2Anim.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sketch2Anim 的大纲"
+            }
+          },
+          {
+            "id": "eda2e705cff218ac",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
+    }
+  },
+  "active": "56d6d06b35786fa3",
+  "lastOpenFiles": [
+    "daily notes/2026-02-22.md",
+    "如何成为学术混子/如何用好工具/Tools--Prompt篇.md",
+    "如何成为学术混子/写论文/论文框架.md",
+    "如何成为学术混子/readme.md",
+    "如何成为学术混子/写论文/写作要注意什么.md",
+    "胡思乱想/2026年了，生成模型做什么.md",
+    "ECCV2026转投.md",
+    "图片/image.png",
+    "daily notes/2026-02-18.md",
+    "daily notes/2026-02-15.md",
+    "world-model paper-reading/world model的记忆.md",
+    "胡思乱想",
+    "world-model paper-reading/什么是world model.md",
+    "未命名.canvas",
+    "daily notes/2026-02-13.md",
+    "如何成为学术混子/如何用好工具/Tools-vibe coding 篇.md",
+    "learning-notes/torch大师.md",
+    "daily notes/2026-02-12.md",
+    "world-model paper-reading/Recammaster.md",
+    "daily notes/2026-02-10.md",
+    "daily notes/2026-02-09.md",
+    "world-model paper-reading/Self-forcing++.md",
+    "world-model paper-reading/Self-forcing.md",
+    "图片",
+    "learning-notes/位置编码.md",
+    "learning-notes/LoRA.md",
+    "daily notes/2026-02-06.md",
+    "world-model paper-reading/FAR.md",
+    "world-model paper-reading/img/image-6.png",
+    "world-model paper-reading/img/image-5.png",
+    "world-model paper-reading/NeoVerse.md",
+    "world-model paper-reading/Mixtures of context.md",
+    "world-model paper-reading/img/image-4.png",
+    "image edit Paper-Reading/img/Pasted image 20260108142334.png",
+    "world-model paper-reading/img/image-3.png",
+    "world-model paper-reading/img/image-2.png",
+    "如何成为学术混子/rebuttal",
+    "learning-notes/img/image.png",
+    "learning-notes/img",
+    "learning-notes",
+    "其他paper-reading",
+    "如何成为学术混子/如何用好工具",
+    "如何成为学术混子/写论文",
+    "world-model paper-reading/img/image-1.png",
+    "world-model paper-reading/img/image.png",
+    "如何成为学术混子",
+    "world-model paper-reading/未命名.canvas",
+    "templates"
+  ]
+}
