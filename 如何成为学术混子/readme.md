@@ -5,7 +5,7 @@ _**Grace won't hand your fate, the future have to be carved by your own claw and
 
 # 写作篇
 [[写作要注意什么]]
-
+[[好看的表格]]
 
 # 搭建/升级你的工作流
 [[Tools--Prompt篇]]
