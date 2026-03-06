@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world model interaction and mem/Cosmos Policy.md",
+                "file": "templates/Paper-reading template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmos Policy"
+              "title": "Paper-reading template"
             }
           }
         ],
@@ -237,10 +237,11 @@
   },
   "active": "bcf3cb71eca7c240",
   "lastOpenFiles": [
-    "world model interaction and mem/DreamDojo.md",
-    "daily notes/2026-03-05.md",
-    "world model interaction and mem/DreamZero.md",
     "world model interaction and mem/mimicvideo.md",
+    "daily notes/2026-03-06.md",
+    "daily notes/2026-03-05.md",
+    "world model interaction and mem/DreamDojo.md",
+    "world model interaction and mem/DreamZero.md",
     "daily notes/2026-03-04.md",
     "图片/image-3.png",
     "图片/image-2.png",
@@ -264,7 +265,6 @@
     "daily notes/2026-02-28.md",
     "daily notes/2026-02-27.md",
     "daily notes/2026-02-25.md",
-    "daily notes/2026-02-26.md",
     "world model interaction and mem",
     "图片/image-1.png",
     "图片/image.png",
