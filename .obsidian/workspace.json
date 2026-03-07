@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2026-03-05.md",
+                "file": "daily notes/2026-03-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-05"
+              "title": "2026-03-07"
+            }
+          },
+          {
+            "id": "1046c4b3ebb801af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "胡思乱想/dynamic memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dynamic memory"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -235,18 +249,24 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "bcf3cb71eca7c240",
+  "active": "14182fe9c627dd4a",
   "lastOpenFiles": [
+    "world model interaction and mem/WorldMem.md",
+    "daily notes/2026-03-07.md",
+    "templates/Paper-reading template.md",
+    "胡思乱想/dynamic memory.md",
+    "world model interaction and mem/PERSIST.md",
+    "templates/read-paper-prompt.md",
+    "world-model paper-reading/PERSIST.md",
+    "daily notes/2026-03-05.md",
+    "daily notes/2026-03-04.md",
     "world model interaction and mem/mimicvideo.md",
     "daily notes/2026-03-06.md",
-    "daily notes/2026-03-05.md",
     "world model interaction and mem/DreamDojo.md",
     "world model interaction and mem/DreamZero.md",
-    "daily notes/2026-03-04.md",
     "图片/image-3.png",
     "图片/image-2.png",
     "world model interaction and mem/Cosmos Policy.md",
-    "templates/Paper-reading template.md",
     "daily notes/2026-03-03.md",
     "daily notes/2026-03-02.md",
     "如何成为学术混子/readme.md",
@@ -259,12 +279,6 @@
     "world-model paper-reading/PlenopticDreamer.md",
     "world-model paper-reading/Mocha.md",
     "world-model paper-reading/MTVCrafter.md",
-    "world-model paper-reading/Mixtures of context.md",
-    "world-model paper-reading/context-as-memory.md",
-    "world-model paper-reading/CamCloneMaster.md",
-    "daily notes/2026-02-28.md",
-    "daily notes/2026-02-27.md",
-    "daily notes/2026-02-25.md",
     "world model interaction and mem",
     "图片/image-1.png",
     "图片/image.png",
