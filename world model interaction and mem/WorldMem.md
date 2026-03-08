@@ -1,3 +1,5 @@
+![[image-5.png]]
+
 # Paper Info
 
 - **Title**: WORLDMEM: Long-term Consistent World Simulation with Memory
@@ -6,6 +8,8 @@
 - **Affiliations**: S-Lab (NTU), Peking University, Shanghai AI Laboratory
 - **Paper Link**: https://arxiv.org/abs/2504.12369
 - **Code/Project Page**: https://xizaoqu.github.io/worldmem
+
+
 
 ## TL;DR
 
@@ -314,3 +318,6 @@ Input Noisy Frames → [Spatial Block] → [Temporal Block] → [Memory Block (C
 - **渐进式训练策略**（从简单到困难）的有效性再次印证了 curriculum learning 在 spatial reasoning 任务上的价值
 - Memory Bank 的 token 级存储 + 基于物理意义的检索（FOV overlap）+ state-aware attention 的组合，形成了一个清晰、可扩展的框架，有望成为长期世界模拟的标准范式
 - 未来可以探索：非均匀记忆压缩（远处/旧的记忆逐步压缩）、语义级记忆检索、与 3D 表示的混合方案
+
+
+
