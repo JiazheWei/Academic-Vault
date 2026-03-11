@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/read-paper-prompt.md",
+                "file": "daily notes/2026-03-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "read-paper-prompt"
+              "title": "2026-03-10"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/read-paper-prompt.md",
+                "file": "daily notes/2026-03-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "read-paper-prompt"
+              "title": "2026-03-11"
             }
           },
           {
@@ -87,7 +87,8 @@
               "title": "VMem"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,26 +273,29 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "1bae12cebcfe4429",
+  "active": "14182fe9c627dd4a",
   "lastOpenFiles": [
-    "world model interaction and mem/DreamZero.md",
-    "templates/read-paper-prompt.md",
-    "daily notes/2026-03-09.md",
-    "daily notes/2026-03-08.md",
+    "胡思乱想/Scientist应该干什么.md",
+    "胡思乱想/dynamic memory.md",
+    "胡思乱想/2026年了，生成模型做什么.md",
+    "world model interaction and mem/RELIC.md",
     "daily notes/2026-03-10.md",
+    "daily notes/2026-03-09.md",
+    "templates/read-paper-prompt.md",
+    "templates/Paper-reading template.md",
     "daily notes/2026-03-11.md",
+    "world model interaction and mem/DreamZero.md",
+    "daily notes/2026-03-08.md",
     "world model interaction and mem/PERSIST.md",
     "world model interaction and mem/Memmory forcing.md",
     "图片/Huang 等 - 2025 - Memory Forcing Spatio-Temporal Memory for Consistent Scene Generation on Minecraft.pdf",
     "world model interaction and mem/VMem.md",
     "world model interaction and mem/WorldMem.md",
-    "胡思乱想/dynamic memory.md",
     "daily notes/2026-03-04.md",
     "如何成为学术混子/写论文/好看的图表.md",
     "如何成为学术混子/readme.md",
     "图片/image-5.png",
     "图片/image-4.png",
-    "templates/Paper-reading template.md",
     "daily notes/2026-03-07.md",
     "world-model paper-reading/PERSIST.md",
     "daily notes/2026-03-05.md",
@@ -302,8 +306,6 @@
     "图片/image-2.png",
     "world model interaction and mem/Cosmos Policy.md",
     "daily notes/2026-03-03.md",
-    "daily notes/2026-03-02.md",
-    "daily notes/2026-03-01.md",
     "world model interaction and mem",
     "图片/image-1.png",
     "图片/image.png",
