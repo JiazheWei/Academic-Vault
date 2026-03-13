@@ -11,6 +11,13 @@ _**Grace won't hand your fate, the future have to be carved by your own claw and
 [[Tools-vibe coding 篇]]
 
 # Rebuttal
-
 [[如何rebuttal]]
+
+
+# 有关投稿/画图的awesome hub
+[雅丹老师的仓库](https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-/blob/main/README-zh.md)
+
+
+
+
 
