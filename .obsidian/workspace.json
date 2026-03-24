@@ -74,20 +74,6 @@
             }
           },
           {
-            "id": "d1aec62ee44bc7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2026-03-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-23"
-            }
-          },
-          {
             "id": "e2c42399129c7b99",
             "type": "leaf",
             "state": {
@@ -100,9 +86,23 @@
               "icon": "lucide-file",
               "title": "VMem"
             }
+          },
+          {
+            "id": "524e7850cfc306d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2026-03-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-24"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -287,17 +287,25 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d1aec62ee44bc7ba",
+  "active": "524e7850cfc306d7",
   "lastOpenFiles": [
-    "world model interaction and mem/VRAG.md",
+    "templates/read-paper-prompt.md",
+    "daily notes/2026-03-24.md",
+    "templates/Paper-reading template.md",
     "daily notes/2026-03-23.md",
+    "图片/wan2_2_t2v_a14b_architecture.svg",
+    "world model interaction and mem/VMem.md",
+    "learning-notes/从零开始的world model面经.md",
+    "learning-notes/位置编码.md",
+    "learning-notes/LoRA.md",
+    "learning-notes/torch大师.md",
+    "胡思乱想/dynamic memory.md",
+    "world model interaction and mem/VRAG.md",
     "world model interaction and mem/AnchorWeave.md",
     "daily notes/2026-03-22.md",
     "daily notes/2026-03-18.md",
     "daily notes/2026-03-13.md",
     "daily notes/2026-03-12.md",
-    "templates/read-paper-prompt.md",
-    "templates/Paper-reading template.md",
     "world model interaction and mem/infite-world.md",
     "如何成为学术混子/README.md",
     "如何成为学术混子/写论文/好看的图表.md",
@@ -309,14 +317,7 @@
     "world-model paper-reading/context-as-memory.md",
     "world model interaction and mem/RELIC.md",
     "world model interaction and mem/SPMem.md",
-    "world model interaction and mem/VMem.md",
     "world model interaction and mem/WorldMem.md",
-    "daily notes/2026-03-11.md",
-    "胡思乱想/Scientist应该干什么.md",
-    "胡思乱想/dynamic memory.md",
-    "胡思乱想/2026年了，生成模型做什么.md",
-    "daily notes/2026-03-10.md",
-    "daily notes/2026-03-09.md",
     "图片/Huang 等 - 2025 - Memory Forcing Spatio-Temporal Memory for Consistent Scene Generation on Minecraft.pdf",
     "图片/image-5.png",
     "图片/image-4.png",
@@ -329,7 +330,6 @@
     "未命名.canvas",
     "图片",
     "world-model paper-reading/img/image-6.png",
-    "world-model paper-reading/img/image-5.png",
     "如何成为学术混子/rebuttal",
     "learning-notes/img",
     "learning-notes",
