@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2026-03-24.md",
+                "file": "daily notes/2026-03-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-24"
+              "title": "2026-03-25"
             }
           }
         ],
@@ -290,8 +290,9 @@
   "active": "524e7850cfc306d7",
   "lastOpenFiles": [
     "templates/read-paper-prompt.md",
-    "daily notes/2026-03-24.md",
+    "daily notes/2026-03-25.md",
     "templates/Paper-reading template.md",
+    "daily notes/2026-03-24.md",
     "daily notes/2026-03-23.md",
     "图片/wan2_2_t2v_a14b_architecture.svg",
     "world model interaction and mem/VMem.md",
@@ -317,7 +318,6 @@
     "world-model paper-reading/context-as-memory.md",
     "world model interaction and mem/RELIC.md",
     "world model interaction and mem/SPMem.md",
-    "world model interaction and mem/WorldMem.md",
     "图片/Huang 等 - 2025 - Memory Forcing Spatio-Temporal Memory for Consistent Scene Generation on Minecraft.pdf",
     "图片/image-5.png",
     "图片/image-4.png",
