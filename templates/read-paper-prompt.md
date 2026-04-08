@@ -143,3 +143,16 @@ triggers:
 - 如果论文某个部分内容不足（如没有 ablation study），如实注明"论文未提供"即可，不要编造
 - 对于 Personal Notes 部分，如果用户没有说明自己的研究方向，可以先空着或给出通用性的思考
 - 保持客观，不要过度美化或贬低论文
+
+
+
+
+
+训练的时候：
+IDM输入的是只去噪5步的latent，
+- 去噪的时候没法直接给去噪干净的latent，因为目的是得到最低去噪步数阈值是多少，经过这个阈值之后，video model输出的latent可以认为带有有语义的action信息，idm可以解码出来action
+
+推理的时候：
+IDM输入的是GT video过VAE之后的干净latent
+
+
