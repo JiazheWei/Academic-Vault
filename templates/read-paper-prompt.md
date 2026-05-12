@@ -148,11 +148,3 @@ triggers:
 
 
 
-训练的时候：
-IDM输入的是只去噪5步的latent，
-- 去噪的时候没法直接给去噪干净的latent，因为目的是得到最低去噪步数阈值是多少，经过这个阈值之后，video model输出的latent可以认为带有有语义的action信息，idm可以解码出来action
-
-推理的时候：
-IDM输入的是GT video过VAE之后的干净latent
-
-
