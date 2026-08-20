@@ -105,12 +105,14 @@
             "id": "e048e85139f92c19",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "daily notes/2026-08-20.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.13.4"
+              "icon": "lucide-file",
+              "title": "2026-08-20"
             }
           }
         ],
@@ -302,6 +304,7 @@
   },
   "active": "e048e85139f92c19",
   "lastOpenFiles": [
+    "daily notes/2026-08-20.md",
     "daily notes/2026-07-30.md",
     "daily notes/2026-08-04.md",
     "daily notes/2026-06-28.md",
@@ -327,7 +330,6 @@
     "daily notes/2026-04-13.md",
     "daily notes/2026-04-11.md",
     "daily notes/2026-04-08.md",
-    "daily notes/2026-04-07.md",
     "图片/wan2_2_t2v_a14b_architecture.svg",
     "图片/image-7.png",
     "图片/image-6.png",
